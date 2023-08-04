@@ -28,7 +28,6 @@ Install dependencies:
 pip3 install -Ur requirements.txt
 ```
 
-
 ## Quick Start
 
 ```bash
