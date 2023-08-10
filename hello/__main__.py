@@ -1,2 +1,5 @@
+from hello.greetings.message import get_greeting
 
-print("Hello World!")
+
+message = get_greeting(name="David")
+print(message)
